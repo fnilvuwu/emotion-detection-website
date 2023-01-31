@@ -9,7 +9,7 @@ let tfliteModel = undefined;
 
 async function start() {
     await tf.loadLayersModel(
-        "https://raw.githubusercontent.com/fnilvuwu/emotion-detection/main/static/js/uint8/model.json"
+        "./static/js/uint8/model.json"
     ).then((loadedModel) => {
         tfliteModel = loadedModel;
     });
