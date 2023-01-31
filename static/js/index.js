@@ -9,7 +9,7 @@ let tfliteModel = undefined;
 
 async function start() {
     await tf.loadLayersModel(
-        "/static/js/uint8/model.json"
+        "/uint8/model.json"
     ).then((loadedModel) => {
         tfliteModel = loadedModel;
     });
