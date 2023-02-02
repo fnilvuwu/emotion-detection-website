@@ -1,4 +1,4 @@
-# emotion-detection
+# emotion-detection-website
 This website can detect emotion based on live face expression
 Implementing Machine Learning on Cloud, Group Member :
 
