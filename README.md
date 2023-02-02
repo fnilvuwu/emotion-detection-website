@@ -1,6 +1,6 @@
 # emotion-detection-website
 This website can detect emotion based on live face expression.
-Implementation of Machine Learning on Web App, Group Member :
+Implementation of Machine Learning on The Web, Group Member :
 
 1. Ahmad Fauzan Mansur (H071201001)
 2. Rahmatullah. R (H071201021)
